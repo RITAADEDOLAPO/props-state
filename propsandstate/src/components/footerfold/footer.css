@@ -1,0 +1,33 @@
+.footer-wrapper{
+    background-color: #f3f3f5;
+    align-items: baseline;
+    margin: 116px -8px 0 -7px;
+}
+
+
+.footer-one{
+    border-bottom: 1px solid #d4d4d4;
+    padding: 5px 0 0 56px;
+}
+.footer-two{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-left-list{
+    display: flex;
+
+}
+.footer-right-list{
+    display: flex;
+}
+.footer-left-list li{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.footer-right-list li{
+    list-style-type: none;
+    padding-right: 35px;
+}
+.footer-mid{
+    margin-left: -90px;
+}
